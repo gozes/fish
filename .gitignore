@@ -1,2 +1,5 @@
 /fish_history
 /fishd.tachikoma
+/fish_read_history
+/functions/fish_user_key_bindings.fish
+/functions/fzf_key_bindings.fish
