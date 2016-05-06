@@ -6,3 +6,5 @@ set fisher_config ~/.config/fisherman
 set fish_greeting ""
 
 set -U FZF_TMUX 1
+
+set -U Z_DATA "$HOME/.z" 
