@@ -3,5 +3,7 @@ oh-my-fish/theme-chain
 oh-my-fish/plugin-extract
 fisherman/fzf
 fisherman/getopts
+fisherman/gitignore
 fisherman/last_job_id
+fisherman/spin
 fisherman/z

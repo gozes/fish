@@ -1,0 +1,1 @@
+/home/gozes/.config/fisherman/gitignore/completions/gitignore.fish
