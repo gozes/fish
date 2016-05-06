@@ -1,0 +1,1 @@
+/home/gozes/.config/fisherman/extract/functions/extract.fish

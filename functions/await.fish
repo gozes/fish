@@ -1,0 +1,1 @@
+/home/gozes/.config/fisherman/await/functions/await.fish

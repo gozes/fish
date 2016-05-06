@@ -1,0 +1,1 @@
+/home/gozes/.config/fisherman/chain/fish_prompt.fish
